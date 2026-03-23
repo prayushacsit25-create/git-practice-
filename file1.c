@@ -1,5 +1,8 @@
 #include<stdio.h>
 int main(){
-    printf("Hello world");
+    int age;
+    printf("Enter your age:");
+    scanf("%d",&age);
+    printf("Hi Github");
     return 0;
 }
